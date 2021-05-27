@@ -1,48 +1,14 @@
-# BusinessManagement
-
-Business Management
-Business Management system website
-
-CSS Style sheet is linked with index.html under head tag.
-In body tag, Nav bar presented with three menus.
-All these menus are under div element, target to the the content by a class selector.
-All the image tags are having alternate attribute to make sure it is accessible by the people identified with special needs.
-
-CSS selectors has been used to style the specific tags
-universal selector, used to design the border-box.
-Body selector used to apply the background tag.
-Header selector used to set the padding and fonts and background color to the header.
-
-Header h1 selector, used to style the display of the menu's with font-size.
-
-Header h1 seo , target the particular tag with font color.
-
-Content selector is used to stlye the width and margin display.
-
-Benifit selector to syle the images in between the texts.
-
-footer selector used to stle the alignment and fonts for the footer.
-footer h1 selector to style font size
-
 # Business Management system
 
 ## Description
 
 - This website provides detailed information about the Various business management systems that helps the customer to understand the business , methods, benifits interms of marketting, branding and expanding their business.
 
-- This project developed using HTML and CSS styling.
+- This project developed using HTML and CSS.
 
 - Developing this project helps to get much more understaing about the HTML symantic elements like, header,footer,navigation and image tags.
 
 - This also helps to get better understanding on various styles in CSS like, Fonts, colors,universal selector, element selector, parent and child element, navbar, header and footer, hover, links,image alignments etc.
-
-\*
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?\*\
 
 ## Table of Contents (Optional)
 
