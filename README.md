@@ -53,7 +53,7 @@ When the user moves the curser on the navbar elements the curser turn into hand 
 When the user clicks the menu links, the page will navigate to that section of the page.
 image (assets/images/search-engine-optimization.jpg) will be displayed with the contents while the user clicks Search Engine Optimization from Nav bar.
 
-image (assets/images/online-reputation-management.jpg) will be displayed with the contents while the user clicks Online Reputation Management from Nav bar.
+image md ![online-reputation-management](assets/images/online-reputation-management.jpg) will be displayed with the contents while the user clicks Online Reputation Management from Nav bar.
 
 image (assets/images/social-media-marketing.jpg) will be displayed with the contents while the user clicks Social Media Marketing from Nav bar.
 
